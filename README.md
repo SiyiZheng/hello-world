@@ -1,2 +1,2 @@
 # hello-world
-my name is Siyi
+my name is Siyi. I like traveling and reading.
